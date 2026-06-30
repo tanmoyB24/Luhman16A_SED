@@ -1,1 +1,1 @@
-# Luhman16A_SED
+Luhman 16A Brown Dwarf SED
